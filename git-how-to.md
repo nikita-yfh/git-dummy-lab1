@@ -8,5 +8,5 @@ cat ~/.ssh/ключ
 
 # как клонировать репу
 ``
-git clone git clone git@github.com:username/repository.git
+git clone git@github.com:username/repository.git
 ``
